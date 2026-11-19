@@ -1,6 +1,6 @@
 ﻿using System;
 using MapChanger.Defs;
-using TMPro;
+using TMProOld;
 using UnityEngine;
 
 namespace MapChanger.MonoBehaviours;
