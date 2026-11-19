@@ -1,5 +1,5 @@
 ﻿using System;
-using TMPro;
+using TMProOld;
 using UnityEngine;
 
 namespace MapChanger.MonoBehaviours;
